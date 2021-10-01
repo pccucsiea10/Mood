@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_device.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\activity_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_device.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\content_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_test.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_time.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\activity_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_break_time.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\activity_break_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_user.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_status.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\activity_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\AndroidStudioProjects\\mood\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

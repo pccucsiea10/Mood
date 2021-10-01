@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">mood</string>
+    <string name="end">結束</string>
+    <string name="start">Join</string>
+    <string name="Next">下一步</string>
+    <string name="UserName">姓名</string>
+    <string name="Sad">傷心心率測試</string>
+    <string name="Happy">開心心率測試</string>
+    <string name="normal">正常心率測試</string>
+    <string name="original">原始心率測試</string>
+    <string name="start1">開始</string>
+    <string name="start2">開始</string>
+    <string name="back2">返回</string>
+    <string name="Next1">下一步</string>
+    <string name="Sex">性別：</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>

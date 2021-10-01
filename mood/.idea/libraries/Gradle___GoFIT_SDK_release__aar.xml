@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: :GoFIT_SDK-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ced84c229d6c11e3d9298479547c8cf2/transformed/GoFIT_SDK-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ced84c229d6c11e3d9298479547c8cf2/transformed/GoFIT_SDK-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ced84c229d6c11e3d9298479547c8cf2/transformed/GoFIT_SDK-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ced84c229d6c11e3d9298479547c8cf2/transformed/GoFIT_SDK-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ced84c229d6c11e3d9298479547c8cf2/transformed/GoFIT_SDK-release/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ced84c229d6c11e3d9298479547c8cf2/transformed/GoFIT_SDK-release/jars/classes.jar!/a" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ced84c229d6c11e3d9298479547c8cf2/transformed/GoFIT_SDK-release/jars/classes.jar!/a" />
+    </SOURCES>
+  </library>
+</component>

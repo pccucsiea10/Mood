@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable/rectangle.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable/rectangle1.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable/rectangle2.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable/rectangle3.xml" value="0.215625" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable/rectangle4.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable/shape.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/drawable/shape1.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout-v24/activity_time.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/activity_break_time.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/activity_device.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/activity_main.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/activity_main3.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/activity_setting.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/activity_status.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/activity_test.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/activity_time.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/activity_user.xml" value="0.14356884057971014" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/content_device.xml" value="0.13949275362318841" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/layout/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/menu/menu_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/mood/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
